@@ -1,6 +1,8 @@
-Hello There today we have a summary about Git?
+# Hello
 
-# What is Git ?   
+## There today we have a summary about Git?
+
+#  So What is Git ?   
 Git : is simply software for tracking changes in any set of files usually used for coordinating work among programmers collaboratively developing source code during software development . its allows you the chose the latest version any time . 
 
 **Git features :** 
