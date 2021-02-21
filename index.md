@@ -11,5 +11,5 @@ Growth mind people set embrace challenges and keep persistent to solve it while 
 This is my mail address and my GitHub portfolio page :
 
 hamza.qah@gmail.com
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FGitHub-Mark.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&tbnid=Kq4l3mSBVj08zM&vet=12ahUKEwjV2veK9PruAhWLyKQKHQnrBZAQMygAegUIARCjAQ..i&docid=H8p6HHzcTglWAM&w=560&h=560&q=github%20icon%20white%20png&hl=en-US&client=firefox-b-d&ved=2ahUKEwjV2veK9PruAhWLyKQKHQnrBZAQMygAegUIARCjAQ)   https://hamzaltuc.github.io/reading-notes/ 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2xVGKecROM22NWFC9uxUef&ust=1613994472589000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj7jaP0-u4CFQAAAAAdAAAAABAD)   https://hamzaltuc.github.io/reading-notes/ 
 
