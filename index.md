@@ -5,3 +5,10 @@ Growth mind people set embrace challenges and keep persistent to solve it while 
 
 *for myself*, I like **challenging**, I consider myself an **ambitious** , **patience person**  I put the goal in my sight and keep moving forward. as the quotes say: dream big, stay positive work hard and enjoy the journey!
 ![alt text](https://s3.amazonaws.com/lightsail-quotezine/wp-content/uploads/2013/10/12223645/hard-work-quote-2.jpg)
+
+
+**By the way, Hello Friends  I'm  Hamza Qahosuh in civil engineer   I'm happy to join you in this program. I’m looking forward work as  with you as a team 
+This is my mail address and my GitHub portfolio page 
+hamza.qah@gmail.com
+https://hamzaltuc.github.io/reading-notes/**
+
