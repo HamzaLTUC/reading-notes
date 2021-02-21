@@ -15,6 +15,6 @@ Growth mind people set embrace challenges and keep persistent to solve it while 
 **By the way, Hello Friends  I'm  Hamza Qahosuh in civil engineer   I'm happy to join you in this program. I’m looking forward work as  with you as a team 
 This is my mail address and my GitHub portfolio page :**
 
-hamza.qah@gmail.com
-![alt text](https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png)   https://hamzaltuc.github.io/reading-notes/ 
+**hamza.qah@gmail.com **
+![alt text](https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png)   **https://hamzaltuc.github.io/reading-notes/** 
 
