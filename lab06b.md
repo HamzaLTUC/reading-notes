@@ -1,0 +1,23 @@
+# Chapter 17 summary: 
+
+HTML5 gives us a new set of elements that allow you to divide up the parts of a page. Like `<article`>, `<header>` , `<nav>` its make reaching it easier and for search engines too. 
+The main header appears at the top of the page and the footer on
+bottom of every page 
+
+• The `<nav>` element is used to contain the major navigational.
+blocks on the site. 
+
+• The `<article>` element acts as a container for any section of a
+page
+
+ • `<aside`>used as defines some content aside from the content it is placed in. acts as a container
+
+• The `<section>` tag defines a section in a document.
+• The `<figure>` tag specifies self-contained content, like illustrations 
+ the `<figcaption>` element is used to add a caption for the `<figure>` element.
+
+• The `<div>` defines a division or a section in an HTML document it makes it easier to use attributes, class, or id.
+
+# Chapter 18 : 
+• It talks about steps you need to study before you start to make a webpage like an audience, information organize, design theory, company size, control budget, area, etc...
+• importance of wireframe in organizing the information you need to show. 
