@@ -34,4 +34,4 @@ Flagged a file’s changed version to be committed in the next snapshot
 
  
 
-![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--l82BOzKA--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png)
+![alt text](https://support.nesi.org.nz/hc/article_attachments/360004194235/Git_Diagram.svg)
