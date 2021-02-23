@@ -19,4 +19,4 @@ We can represent any number we like and we can represent text, images, videos, s
 circuits: is the process which computer does to make information is output which is modified and combine the input signals using millions if teeny electronic computer which comes tighter and performs circuits and its controls by CPU
 
 bunch of circuits, chips, wires, speakers, plug and all sorts of other things is hardware, while software all the computer programs or codes running on the machine.
-the operating system is the master program that manages usingof the software.
+the operating system is the master program that manages using of the software.
