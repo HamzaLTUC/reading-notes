@@ -17,8 +17,25 @@ Every step for every task shown in a flowchart needs to be written in a language
 
 
 # Functions : 
-let us group a series of the statement to perform a specific task it helps us to organize the code. its work like store hold statement that is contained in the curly bracket until we are ready to use them 
+let us group a series of the statement to perform a specific task it helps us to organize the code. its work like store hold statement that is contained in the curly bracket until we are ready to use them .
+
 The statements aren’t run until the function is called 
 To run the code in the function we can use function name followed by parentheses or sometimes function needs specific information to perform its task 
 
 ![](https://i.ibb.co/gmBXBgx/function-format.png)
+ 
+ # Expressions 
+They are two types o expressions 
+
+1.  Expression that just assign value to a variable 
+var color = 'beige'; (which called  ASSIGNMENT OPERATORS)
+The value of color is now beige.
+
+2. Expression that use two or more values to return a single line value.
+var area = 3 * 2; (which called arthmatic  operator )
+The value of area is now 6.
+
+and there is STRING OPERATORS which Combine two strings.
+
+
+![](https://i.ibb.co/q9d0Pbt/opr.png)
