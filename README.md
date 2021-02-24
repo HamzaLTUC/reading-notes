@@ -5,9 +5,11 @@
  
 | Topic      | Description |
 | ----------- | ----------- |
-| Markdown       | Title       |
-| Git    | Text        |
-|GitHUb | text |
-| Groth Mindset | link |
+| Markdown       |(https://hamzaltuc.github.io/reading-notes/markdown)|
+       
+| Git    | https://hamzaltuc.github.io/reading-notes/Git)       |
+|GitHUb |(https://hamzaltuc.github.io/reading-notes/Github)|
+
+| Groth Mindset |(https://hamzaltuc.github.io/reading-notes/Growth) |
 | HTML intro | link |
 
